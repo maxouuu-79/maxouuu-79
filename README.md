@@ -21,7 +21,7 @@
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   
   
-  ##
+  ## Connect with me
  
 <div> 
   <a href="https://www.pinterest.fr/maxouuu_79/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
@@ -30,3 +30,6 @@
  
  
 </div>
+
+## Snake eating my contribution graph
+![snake gif](https://github.com/maxouuu-79/maxouuu-79/blob/output/github-contribution-grid-snake.gif)
