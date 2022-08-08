@@ -27,6 +27,8 @@
   <a href="https://www.pinterest.fr/maxouuu_79/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
   <a href="https://twitter.com/maxouuu_79" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  	<a href="https://open.spotify.com/user/yviwtxlswjfb531k4gnyillps?si=379eca88926b4398" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRzDDGPghxkprKbqmtcFgrdpdPLdQQTBJBHzVGKGdjdqzCdXgWDFszzdXZDLjvPmWZVcWPTh" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
  
  
 </div>
