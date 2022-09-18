@@ -1,4 +1,4 @@
-## heyyy, i'm max ✌️   (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+## heyyy, i'm max ✌️   (∩｀-´)⊃━☆ﾟ.*･｡ﾟ 
 
 <div align="center">
   <a href="https://github.com/maxouuu-79">
